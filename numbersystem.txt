@@ -1,2 +1,3 @@
 one is the first digit of the natural number.
 two is the even natural number.
+three is odd natural number.
